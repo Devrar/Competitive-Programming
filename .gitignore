@@ -1,0 +1,6 @@
+# Ignoring all executables and .o files
+*
+!/**/
+!*.*
+
+*.o
